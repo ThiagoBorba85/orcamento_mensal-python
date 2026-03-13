@@ -4,7 +4,6 @@ Este projeto é um script em **Python** desenvolvido para facilitar a organizaç
 
 ## 🚀 Funcionalidades
 - **Entrada Dinâmica:** Aceita valores no formato brasileiro (ex: 4.350,00 ou 4350).
-- **Cálculos Automáticos:** Soma de gastos totais, cálculo de saldo restante e média de despesas.
 - **Integração com Excel:** Gera uma planilha organizada com abas de "Gastos" e "Resumo".
 - **Tratamento de Erros:** Validação de entradas para evitar fechamentos inesperados.
 
